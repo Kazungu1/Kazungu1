@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kazungu1
-- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on any software engineering projects
 
