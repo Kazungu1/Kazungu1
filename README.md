@@ -21,7 +21,7 @@ Kazungu1&style=flat-square&color=blue" alt="" height="20"/>
 
 ## Hi there 👋
 
-- :wave: Hi, I'm Derrick Kazungu => @Kazungu1
+- :wave: Hi, I'm Derrick Kazungu.
 - :eyes: I'm interested in C#, .Net 
 - :seedling: I'm currently learning ASP.NET.
 - :revolving_hearts:️ I'm looking to collaborate on any interesting projects.
